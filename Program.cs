@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.IO;
 using System.Threading;
+using System.Linq;
 
 class Program
 {
@@ -81,7 +82,7 @@ class Program
         Label label = new Label
         {
             Dock = DockStyle.Fill,
-            Text = "Copied files:\n" + string.Join("\n", filePaths),
+            Text = $"{filePaths.Length} Copied files:\n" + string.Join("\n", filePaths),
             ForeColor = Color.White,
             TextAlign = ContentAlignment.TopLeft,
             Font = new Font("Consolas", 10) 

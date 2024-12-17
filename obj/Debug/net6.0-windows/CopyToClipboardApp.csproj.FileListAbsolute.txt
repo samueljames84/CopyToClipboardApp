@@ -18,8 +18,6 @@ D:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Debug\net6.0-win
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Debug\net6.0-windows\CopyToClipboardApp.dll
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Debug\net6.0-windows\CopyToClipboardApp.pdb
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.GeneratedMSBuildEditorConfig.editorconfig
-d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.AssemblyInfoInputs.cache
-d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.AssemblyInfo.cs
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.csproj.CoreCompileInputs.cache
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.sourcelink.json
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.dll
@@ -27,3 +25,8 @@ d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-win
 d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.pdb
 D:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\CopyToClipboardApp.genruntimeconfig.cache
 D:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\obj\Debug\net6.0-windows\ref\CopyToClipboardApp.dll
+d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Release\net6.0-windows\CopyToClipboardApp.exe
+D:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Release\net6.0-windows\CopyToClipboardApp.deps.json
+D:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Release\net6.0-windows\CopyToClipboardApp.runtimeconfig.json
+d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Release\net6.0-windows\CopyToClipboardApp.dll
+d:\Library\GitHub Repositories\.NET Apps\CopyToClipboardApp\bin\Release\net6.0-windows\CopyToClipboardApp.pdb
