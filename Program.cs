@@ -66,7 +66,7 @@ class Program
             FormBorderStyle = FormBorderStyle.None,
             ShowInTaskbar = false,
             StartPosition = FormStartPosition.Manual,
-            Size = new Size(600, 150),
+            Size = new Size(Screen.PrimaryScreen.WorkingArea.Width / 3, Screen.PrimaryScreen.WorkingArea.Height / 8),
             BackColor = Color.Black,
             Opacity = 0.9
         };
@@ -83,7 +83,7 @@ class Program
             Dock = DockStyle.Fill,
             Text = "Copied files:\n" + string.Join("\n", filePaths),
             ForeColor = Color.White,
-            TextAlign = ContentAlignment.MiddleLeft,
+            TextAlign = ContentAlignment.TopLeft,
             Font = new Font("Consolas", 10) 
             //Font = new Font(FontFamily.GenericSansSerif, 10)
         };
