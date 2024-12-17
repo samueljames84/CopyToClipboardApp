@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyToClipboardApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5eb70373326b3a2c105babcb8bcad42e8e53b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97bf7578606610db1e04a5379938b61906785ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyToClipboardApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyToClipboardApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

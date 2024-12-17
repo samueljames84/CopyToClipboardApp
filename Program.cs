@@ -60,22 +60,21 @@ class Program
     static void ShowTooltip(string[] filePaths)
     {
         Application.EnableVisualStyles();
-        
         // Create tooltip form
         Form tooltipForm = new Form
         {
             FormBorderStyle = FormBorderStyle.None,
             ShowInTaskbar = false,
             StartPosition = FormStartPosition.Manual,
-            Size = new Size(600, 100),
+            Size = new Size(600, 150),
             BackColor = Color.Black,
-            Opacity = 0.8
+            Opacity = 0.9
         };
 
         // Position the form at bottom right of screen
         tooltipForm.Location = new Point(
-            Screen.PrimaryScreen.WorkingArea.Width - tooltipForm.Width - 10,
-            Screen.PrimaryScreen.WorkingArea.Height - tooltipForm.Height - 10
+            Screen.PrimaryScreen.WorkingArea.Width - tooltipForm.Width - 5,
+            Screen.PrimaryScreen.WorkingArea.Height - tooltipForm.Height - 5
         );
 
         // Create label for file paths
@@ -85,7 +84,8 @@ class Program
             Text = "Copied files:\n" + string.Join("\n", filePaths),
             ForeColor = Color.White,
             TextAlign = ContentAlignment.MiddleLeft,
-            Font = new Font(FontFamily.GenericSansSerif, 10)
+            Font = new Font("Consolas", 10) 
+            //Font = new Font(FontFamily.GenericSansSerif, 10)
         };
 
         tooltipForm.Controls.Add(label);
