@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\CopyToClipboardApp\\CopyToClipboardApp.csproj": {}
+    "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\CopyToClipboardApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\CopyToClipboardApp\\CopyToClipboardApp.csproj": {
+    "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\CopyToClipboardApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\CopyToClipboardApp\\CopyToClipboardApp.csproj",
+        "projectUniqueName": "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\CopyToClipboardApp.csproj",
         "projectName": "CopyToClipboardApp",
-        "projectPath": "C:\\Users\\Sam\\CopyToClipboardApp\\CopyToClipboardApp.csproj",
+        "projectPath": "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\CopyToClipboardApp.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\CopyToClipboardApp\\obj\\",
+        "outputPath": "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net6.0-windows"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -57,11 +57,11 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WPF": {
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
