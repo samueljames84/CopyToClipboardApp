@@ -6,5 +6,9 @@
     <AssemblyName>CopyToClipboardApp</AssemblyName>
     <OutputPath>./bin/Release/</OutputPath>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Version>1.0.0</Version> <!-- Semantic version -->
+    <AssemblyVersion>1.0.0.0</AssemblyVersion> <!-- Runtime binding -->
+    <FileVersion>1.0.0.0</FileVersion> <!-- File information -->
+    <InformationalVersion>1.0.0-stable</InformationalVersion> <!-- Optional "1.2.0-beta" -->
   </PropertyGroup>
 </Project>

@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\CopyToClipboardApp.csproj",
         "projectName": "CopyToClipboardApp",
         "projectPath": "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\CopyToClipboardApp.csproj",
-        "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\sajam\\.nuget\\packages\\",
         "outputPath": "D:\\Library\\GitHub Repositories\\.NET Apps\\CopyToClipboardApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sajam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
