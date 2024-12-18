@@ -5,10 +5,14 @@
     <UseWindowsForms>true</UseWindowsForms>
     <AssemblyName>CopyToClipboardApp</AssemblyName>
     <OutputPath>./bin/Release/</OutputPath>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <Version>1.0.0</Version> <!-- Semantic version -->
     <AssemblyVersion>1.0.0.0</AssemblyVersion> <!-- Runtime binding -->
     <FileVersion>1.0.0.0</FileVersion> <!-- File information -->
     <InformationalVersion>1.0.0-stable</InformationalVersion> <!-- Optional "1.2.0-beta" -->
+    <Description>Free tool to copy file to clipboard by pasiing file path as arguments</Description>
+    <Company>Samuel James</Company>
+    <Authors>Samuel James</Authors>
+    <Copyright>©2024. All rights reserved. Free to use</Copyright>
   </PropertyGroup>
 </Project>
